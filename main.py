@@ -1,0 +1,5 @@
+import matriksiq
+
+matriksiq.matriksIqTest();
+
+
